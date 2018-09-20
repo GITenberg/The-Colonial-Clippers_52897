@@ -1,0 +1,29 @@
+_repo: The-Colonial-Clippers_52897
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lubbock, Basil
+    aliases:
+    - Lubbock, A. Basil
+    - Lubbock, Alfred Basil
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '47107'
+    url: http://www.gutenberg.org/2009/agents/47107
+description: ''
+gutenberg_issued: '2016-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52897'
+  lccn: '22000203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Merchant marine -- Great Britain'
+- !lcsh 'Clipper ships'
+- !lcc 'VK'
+- GITenberg
+title: The Colonial Clippers
+url: http://www.gutenberg.org/ebooks/52897
